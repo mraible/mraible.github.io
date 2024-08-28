@@ -16,6 +16,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
+  deploymentBranch: 'gh-pages',
   organizationName: 'mraible', // Usually your GitHub org/user name.
   projectName: 'mraible.github.io', // Usually your repo name.
 
