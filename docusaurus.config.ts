@@ -9,15 +9,15 @@ const config: Config = {
   favicon: 'images/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.jhipster.tech',
+  url: 'https://mraible.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'jhipster', // Usually your GitHub org/user name.
-  projectName: 'jhipster.github.io', // Usually your repo name.
+  organizationName: 'mraible', // Usually your GitHub org/user name.
+  projectName: 'mraible.github.io', // Usually your repo name.
 
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'ignore',
